@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://etfulipho.github.io/sitemap.html.gz
+Sitemap: https://etfulipho.github.io/app/sitemap.html.gz
+Sitemap: https://etfulipho.github.io/assets/sitemap.html.gz
+Sitemap: https://etfulipho.github.io/css/sitemap.html.gz
+Sitemap: https://etfulipho.github.io/includes/sitemap.html.gz
+Sitemap: https://etfulipho.github.io/item/sitemap.html.gz
+Sitemap: https://etfulipho.github.io/src/sitemap.html.gz
